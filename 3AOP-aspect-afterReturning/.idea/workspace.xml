@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f1ca745-fa58-449d-ac1c-0e53005f9740" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fdvbrpMIzUbAy0tYf33FgSQkzx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4AOP-aspect-afterReturning" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.aopdemo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MYCOMP\IdeaProjects\Spring\AOP\src\main\java\com\example\aopdemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AfterReturningDemoApp">
+    <configuration name="AfterReturningDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.aopdemo.AfterReturningDemoApp" />
+      <module name="AOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.aopdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.aopdemo.MainDemoApp" />
+      <module name="AOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.aopdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AopdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="AOP" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aopdemo.AopdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AfterReturningDemoApp" />
+        <item itemvalue="Application.MainDemoApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f1ca745-fa58-449d-ac1c-0e53005f9740" name="Default Changelist" comment="" />
+      <created>1596560858395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596560858395</updated>
+      <workItem from="1596560864073" duration="6915000" />
+      <workItem from="1596643738377" duration="1434000" />
+      <workItem from="1596645384435" duration="818000" />
+      <workItem from="1596647894039" duration="28000" />
+      <workItem from="1596647953461" duration="3456000" />
+      <workItem from="1596723892946" duration="607000" />
+      <workItem from="1596728535418" duration="713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1596728636522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596728636522" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596629857579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596629857579" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1596729253210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596729253210" />
+    <state width="1323" height="246" key="GridCell.Tab.0.bottom" timestamp="1596729254292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="246" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596729254292" />
+    <state width="1323" height="246" key="GridCell.Tab.0.center" timestamp="1596729254292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="246" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596729254292" />
+    <state width="1323" height="246" key="GridCell.Tab.0.left" timestamp="1596729254292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="246" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596729254292" />
+    <state width="1323" height="246" key="GridCell.Tab.0.right" timestamp="1596729254292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="246" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596729254292" />
+    <state x="263" y="99" key="IDE.errors.dialog" timestamp="1596728547183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1596728547183" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1596647908097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596647908097" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596561813817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596561813817" />
+  </component>
+</project>
